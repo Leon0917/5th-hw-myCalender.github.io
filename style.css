@@ -1,0 +1,80 @@
+#plannerbtn{
+    align-content: center;
+    margin-top: auto;
+    border: solid gray;
+    background-color: honeydew;
+    width: max-content;
+    text-align: center;
+    line-height: 30px;
+    /* margin-left: 40%; */
+}   
+ .jumbotron{
+    text-align: center;
+    background-color: transparent;
+    border-radius: 0;
+    border-bottom: 10px solid black;
+
+    .info{
+        white-space: pre-wrap;
+        /* bordered-left: 20px; */
+    }
+    .saveBtn{
+        border-left: 1px solid black;
+        border-top-right-radius: 15px ;
+        border-bottom-right-radius: 15px;
+    }
+    .time-row{
+        margin: auto;
+        text-align: center;
+        border-radius: 15px;
+    }
+/* }
+.headT{
+    text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: black;
+}
+.parT{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 18px;
+  }
+  /* .horLine{
+      color: black;
+      height: 15px; 
+  } */
+  /* .time{
+    margin: 60px;
+  }
+  .row{
+       height: 50px;
+  }
+  
+  .leftCol{
+    border-top: dotted black 1px;
+    border-right: black 1px;
+    border-bottom: black 1px;
+    color: grey;
+  }
+  .mid-prev{
+      border: solid gray 3px;
+      background-color: gray;
+      padding: 8px;
+  }
+  .mid-current{
+    background-color: red;
+    border: solid red 3px;
+    padding: 8px;
+}
+.mid-fut{
+    background-color: rgb(30, 128, 0);
+    border: solid green 3px;
+    padding: 8px;  
+}
+ .right{
+     background-color: rgb(0, 153, 255);
+     border: solid blue 3px;
+     padding: 10px;
+ }
+  */ */
