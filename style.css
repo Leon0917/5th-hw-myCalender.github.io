@@ -4,9 +4,10 @@
     background-color: transparent;
     border-radius: 0;
     border-bottom: 10px solid black;
+    font-family: Arial, Helvetica, sans-serif;
  }
  .container{
-     margin-bottom: 30px;
+     margin-bottom: 35px;
  }
  .hour{
      border-top: 2px dotted black;
@@ -15,14 +16,17 @@
     padding: 5px;
  }
  .prevHours{
-     background-color: rgb(128, 128, 128);
+     background-color:gray;
      padding: 3px;
+     cursor: pointer;
  }
  .curHours{
      background-color: red;
+     cursor: pointer;
  }
  .futHours{
     background-color: greenyellow;
+    cursor: pointer;
  }
  .saveBtn{
      background-color: rgb(0, 255, 242);
@@ -30,7 +34,7 @@
      border-top-right-radius: 15px ;
      border-bottom-right-radius: 15px;
  }
-    .infoArea{
+    .hours{
         white-space: pre-wrap;
     }
     .time-row{
